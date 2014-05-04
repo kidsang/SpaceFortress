@@ -1,0 +1,9 @@
+linux/
+winrt/
+wp8/
+proj.wp8/
+proj.winrt/
+Debug.*
+*.sdf
+*.suo
+*.vcxproj.user
